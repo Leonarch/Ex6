@@ -1,4 +1,4 @@
-# Ex7
+# Ex6
 <b>Esercizio - Attributi</b>
 
 <h4>Aggiungi alla pagina:</h4>
